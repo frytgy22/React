@@ -1,0 +1,7 @@
+
+Ctrl+c stop project
+
+
+sudo create-react-app react-basic
+cd react-basic
+npm start
